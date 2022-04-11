@@ -118,5 +118,62 @@
                 </coverage>
             </suite>
         </generation>
+        <generation>
+            <id>2</id>
+            <failed>false</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>120</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis\.evosuite\tmp_2022_04_11_08_32_47\logs\AVLtree.AVLTree\std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis\.evosuite\tmp_2022_04_11_08_32_47\logs\AVLtree.AVLTree\std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis\.evosuite\tmp_2022_04_11_08_32_47\logs\AVLtree.AVLTree\std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis\.evosuite\tmp_2022_04_11_08_32_47\logs\AVLtree.AVLTree\std_out_MASTER.log</std_out_MASTER>
+            <suite>
+                <fullPathOfTestSuite>C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis\.evosuite\tmp_2022_04_11_08_32_47\tests\AVLtree\AVLTree_ESTest.java</fullPathOfTestSuite>
+                <numberOfTests>27</numberOfTests>
+                <totalNumberOfStatements>274</totalNumberOfStatements>
+                <totalEffortInSeconds>107</totalEffortInSeconds>
+                <coverage>
+                    <criterion>LineCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>1111111111111111111111111111111111111111111111111111111111111111111111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>BranchCoverage</criterion>
+                    <coverageValue>0.98</coverageValue>
+                    <coverageBitString>111111111111111111111111111111011111111111111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>ExceptionCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>11111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>WeakMutationScore</criterion>
+                    <coverageValue>0.98</coverageValue>
+                    <coverageBitString>111111111111111111111101111111111111111111111111111111111111101111111111111111111111111011111111111111111110111111111111111111111111111111111111111111111111111111111111111111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>OutputCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>1111111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>MethodCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>11111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>MethodNoExceptionCoverage</criterion>
+                    <coverageValue>1.0</coverageValue>
+                    <coverageBitString>11111111</coverageBitString>
+                </coverage>
+                <coverage>
+                    <criterion>CBranchCoverage</criterion>
+                    <coverageValue>0.58</coverageValue>
+                    <coverageBitString>111111111111111100000000000000000011111111110011</coverageBitString>
+                </coverage>
+            </suite>
+        </generation>
     </cut>
 </Project>

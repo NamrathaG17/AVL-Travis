@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="14" failures="0" name="AVLtree.AVLTree_ESTest" time="0.051" errors="0" skipped="0">
+<testsuite tests="14" failures="0" name="AVLtree.AVLTree_ESTest" time="0.057" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_311\jre\bin"/>
     <property name="java.vm.version" value="25.311-b11"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis-Tests\hw_avltree"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis-Tests\hw_avltree"/>
+    <property name="user.dir" value="C:\Users\namra\Desktop\Spring_2022\PAT\AVL-Travis"/>
     <property name="java.runtime.version" value="1.8.0_311-b11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_311\jre\lib\endorsed"/>
@@ -65,18 +65,18 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test08" time="0.014"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test09" time="0.011"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test06" time="0.001"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test07" time="0.001"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test08" time="0.016"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test09" time="0"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test06" time="0"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test07" time="0.012"/>
   <testcase classname="AVLtree.AVLTree_ESTest" name="test05" time="0.002"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test02" time="0.002"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test13" time="0.001"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test03" time="0.004"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test02" time="0.003"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test13" time="0.002"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test03" time="0.005"/>
   <testcase classname="AVLtree.AVLTree_ESTest" name="test14" time="0.002"/>
   <testcase classname="AVLtree.AVLTree_ESTest" name="test00" time="0.002"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test11" time="0.001"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test11" time="0.002"/>
   <testcase classname="AVLtree.AVLTree_ESTest" name="test01" time="0.002"/>
   <testcase classname="AVLtree.AVLTree_ESTest" name="test12" time="0.007"/>
-  <testcase classname="AVLtree.AVLTree_ESTest" name="test10" time="0.001"/>
+  <testcase classname="AVLtree.AVLTree_ESTest" name="test10" time="0.002"/>
 </testsuite>
